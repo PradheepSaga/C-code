@@ -14,7 +14,7 @@ int main(){
       printf("y = %d\n", y); //Output of pre-increment done by y
       printf("z = %d\n", z); //Output of post increment done by z 
       printf("u = %d\n", u); //Output of post-decrement done by u
-      printf("v = %d\n", v); //Output of pre-decrement done y v 
+      printf("v = %d\n", v); //Output of pre-decrement done by v 
        printf("a = %d\n", a);  //Output of given input variable a
       
       return 0;
